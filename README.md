@@ -21,7 +21,7 @@ If you think that these can be improved in any way, please do suggest.
 
 ## Introduction
 
-![Web Developer Roadmap Introduction](./img/Intro.png?year-2020-2)
+![Web Developer Roadmap Introduction](./img/intro.png?year-2020-2)
 
 ## Frontend Roadmap
 
