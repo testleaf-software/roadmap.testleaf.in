@@ -1,5 +1,5 @@
 
-![Automation Tester Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
+![Automation Tester Developer Roadmap - 2020](https://testleaf.com/wp-content/uploads/2020/06/RoadMap.png)
 
 > Roadmap to becoming a Automation Test Engineer (SDET) in 2020
 
